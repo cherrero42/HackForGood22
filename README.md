@@ -3,6 +3,8 @@ HackForGood is where we create digital solutions for social problems. My team ca
 
 https://www.fundaciontelefonica.com/noticias/los-estudiantes-de-los-campus-de-programacion-42-participaran-en-hackforgood-el-mayor-hackathon-de-nuestro-pais/
 
+#HackForGood22
+
 <p align="center"> <img src="./hackforgood_2560x950.png" alt="image" width="456"/> </p>
 
 Oct.22
